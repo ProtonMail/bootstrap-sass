@@ -416,12 +416,14 @@ optgroup {
 // Remove most spacing between table cells.
 //
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+//  CUSTOMIZED BY JASON TO PREVENT BLEEDING INTO EMAILS
 
-td,
-th {
-  padding: 0;
-}
+// table {
+//   border-collapse: collapse;
+//   border-spacing: 0;
+// }
+
+// td,
+// th {
+//   padding: 0;
+// }
